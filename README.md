@@ -1,0 +1,2 @@
+# NeuroEvoSent-Neuro-Language-Sentiment-Analysis-via-Evolutionary-Search
+EvoSent-L3 is a Twitter sentiment analysis system built on top of Meta’s LLaMA3 language model. This project integrates advanced metaheuristic optimization algorithms—Simulated Annealing (SA) and Genetic Algorithm (GA)—to fine-tune the model’s hyperparameters for enhanced classification accuracy and robustness on social media text.
