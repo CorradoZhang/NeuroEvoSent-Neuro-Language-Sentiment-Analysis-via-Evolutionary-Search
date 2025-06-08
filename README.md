@@ -69,12 +69,3 @@ This project investigates the application of Low-Rank Adaptation (LoRA) for fine
 - Incorporate external knowledge (e.g., retrieval-augmented generation)
 - Optimize for faster and more resource-efficient fine-tuning
 
-## Team Members
-
-Jiang Hu  
-Yu Zhang  
-Shiying Wei  
-Zi Li  
-
-Supervisor: Dr. John McCrae  
-School of Computer Science
